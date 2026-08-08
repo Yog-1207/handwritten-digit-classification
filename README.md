@@ -49,11 +49,11 @@ The trained model achieved:
 
 ### Training Accuracy
 
-![Training Accuracy](training_accuracy.png)
+![Training Accuracy](training_accuracy(1).png)
 
 ### Training Loss
 
-![Training Loss](training_loss.png)
+![Training Loss](training_loss(1).png)
 
 ## 🔍 Predictions
 
